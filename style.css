@@ -1,0 +1,85 @@
+body {
+	color:#c7a38b;
+	background-color:#F7F9FC;
+	font-family:"Lora", sans-serif;
+	font-size: 17px;
+	text-align: center;
+	font-weight: lighter;
+	background-image: url("images/satinmarron.jpeg");
+	background-size: cover;
+}
+}
+h1, h2, h3{
+	font-family: 'roboto;', sans-serif;
+}
+h1{
+	color:#F38203;
+	font-size: 32px;
+	font-weight: 900;
+}
+h2{
+	color:#F38203;
+	font-size: 20px;
+	font-weight:500;
+}
+h3{
+	color: #e3e330;
+}
+
+a{
+	font-family:'Roboto', sans-serif;
+	text-decoration: none;
+	color: #a12828;
+	font-weight: 600;
+	font-size: 16px;
+}
+
+img{
+	border-radius: 15%;
+}
+
+.intro{
+	margin-bottom: 40px;
+}
+.buttun-blue{
+	blackground-color: #CE6F04;
+	color: #575F7D;
+	font-weight: bold;
+	padding: 12px;
+	border-radius: 6px;
+	border: 1px black;
+	margin: 24px auto;
+	width: 50%;
+	transition: 0s ;
+}
+.buttun-blue:hover{
+	background-color: white;
+	color: #a12828;
+	transition: 1s;
+}
+i{
+	font-size: 48px;
+	color: rgba(0, 0, 0, .4);
+}
+#list-inline li{
+	display:inline;
+	margin: 0 8px;
+}
+i:hover{
+	color:black;
+	transition: 1s;
+}
+#list-inline{
+	padding: 0;
+}
+i{
+color:black;
+}
+.card-white{
+	width:75%;
+	padding:24px;
+	margin: 24px auto;
+	background-color: beige;
+	border-radius: 7px
+	box-shadow: 3px 4px 30px #726b6bd1;
+}
